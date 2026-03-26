@@ -3,4 +3,5 @@ numpy
 pandas
 scipy
 scikit-fuzzy
+networkx
 plotly
